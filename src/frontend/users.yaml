@@ -1,0 +1,6 @@
+credentials:
+  usernames:
+    mpecina:
+      email: mateo.pecina@example.com
+      name: Mateo Peciña
+      password: abcdef
