@@ -13,6 +13,12 @@
 
 ---
 
+## 📽️ Demo
+
+[![AssistAI - DEMO](https://img.youtube.com/vi/CS19B3H0pqM/0.jpg)](https://www.youtube.com/watch?v=CS19B3H0pqM)
+
+---
+
 ## 🧱 Tecnologías utilizadas
 
 | Capa                | Tecnología           |
@@ -128,4 +134,5 @@ Este proyecto se distribuye bajo la licencia **MIT**.
 
 ```
 MIT License - Copyright (c) 2025 Mateo Peciña
+
 ```
