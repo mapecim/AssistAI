@@ -1,6 +1,18 @@
 # AssistAI – All-In-One Basket Analytics App 🏀🤖
 
+[![Thesis](https://img.shields.io/badge/Master's_Thesis-Distinction-gold)](./docs/TFM_MateoPeciñaMarqueta-AssistAI.pdf)
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 **AssistAI** es una aplicación completa de analítica de baloncesto enfocada en la **Euroliga**, que permite a los usuarios interactuar a través de un chat inteligente para resolver dudas sobre estadísticas, generar informes, comparar jugadores/equipos, realizar búsquedas de jugadores similares y predecir el rendimiento de un quinteto basado en sus datos estadísticos.
+
+> 🎓 **Proyecto de Máster (Matrícula de Honor)**
+>
+> Este repositorio contiene el código fuente del Trabajo Fin de Máster en *Basket Data Analytics & Sport Management* de *SportsBizLab & Movistar Estudiantes*.
+>
+> Puedes consultar la **memoria técnica completa**, decisiones de arquitectura y análisis funcional en el siguiente enlace:
+>
+> 📄 **[Leer Memoria del Proyecto (PDF)](./docs/TFM_MateoPeciñaMarqueta-AssistAI.pdf)**
 
 ## 🚀 Funcionalidades principales
 
@@ -34,12 +46,14 @@
 
 ```
 .
+├── docs
+│   └── TFM_MateoPeciñaMarqueta-AssistAI.pdf    ← Memoria Técnica
 ├── requirements.txt
 ├── src
 │   ├── backend
-│   │   └── main.py            ← Endpoints FastAPI
+│   │   └── main.py                             ← Endpoints FastAPI
 │   ├── frontend
-│   │   └── ...                ← Aplicación Streamlit
+│   │   └── ...                                 ← Aplicación Streamlit
 │   └── ...
 └── README.md
 ```
